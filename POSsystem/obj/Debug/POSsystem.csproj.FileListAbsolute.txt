@@ -1,0 +1,16 @@
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.csproj.AssemblyReference.cache
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.csproj.SuggestedBindingRedirects.cache
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.Bill.resources
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.Login.resources
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.Report.resources
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.SignUp.resources
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.csproj.GenerateResource.cache
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.csproj.CoreCompileInputs.cache
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.Customer.resources
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.Dashboard.resources
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.Inventory.resources
+F:\ongoing\C#\POSsystem\bin\Debug\POSsystem.exe.config
+F:\ongoing\C#\POSsystem\bin\Debug\POSsystem.exe
+F:\ongoing\C#\POSsystem\bin\Debug\POSsystem.pdb
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.exe
+F:\ongoing\C#\POSsystem\obj\Debug\POSsystem.pdb
